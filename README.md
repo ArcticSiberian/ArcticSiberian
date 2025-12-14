@@ -1,4 +1,4 @@
-# 💫 Hi there:
+# 💫 Hi there
 👋 I’m Malambo, a Computer Science Graduate from the University of Adelaide looking to start my career in tech and software development<br> <br>  🤝 I’m looking for guidance and mentorship as I grow my skills as a software engineer  <br>   🔭 I’m currently working on strengthening my understanding of algorithms and problem-solving  <br>  💬 Ask me about computer science fundamentals, university projects, or embedded systems  <br>  ⚡ Fun fact: I enjoy breaking problems down to their fundamentals and building things step by step<br>
 
 
